@@ -13,4 +13,3 @@ pip install requests
 # output result :
 
 Results saved in file (wrCloudflareIp.txt)
-￼Enter
